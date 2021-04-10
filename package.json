@@ -1,0 +1,19 @@
+{
+  "name": "algorithm",
+  "description": "d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ollabu3@github.com/ollabu3/algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ollabu3/algorithm/issues"
+  },
+  "homepage": "https://github.com/ollabu3/algorithm#readme"
+}
