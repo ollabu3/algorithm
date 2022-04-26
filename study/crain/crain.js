@@ -1,4 +1,4 @@
-//  node study/220315/crain.js
+//  node study/crain.js
 
 function solution(board, moves) {
   let answer = 0;

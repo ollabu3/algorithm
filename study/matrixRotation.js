@@ -1,5 +1,7 @@
-//  node study/220322/matrixRotation.js
-// https://programmers.co.kr/learn/courses/30/lessons/77485
+/*
+https://programmers.co.kr/learn/courses/30/lessons/77485
+출처: 프로그래머스
+*/
 function solution(rows, columns, queries) {
   var answer = [];
   let matrix = [];
@@ -70,3 +72,5 @@ console.log(
     [5, 1, 6, 3],
   ])
 );
+
+//  node study/matrixRotation.js

@@ -62,4 +62,4 @@ console.log(
     4
   )
 ); // result 4
-//  node study/220405/delivery.js
+//  node study/delivery.js
