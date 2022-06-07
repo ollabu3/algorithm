@@ -18,4 +18,4 @@ function bubbleSort(arr) {
 }
 console.log(bubbleSort([8, 1, 2, 3, 4, 5, 6, 7]));
 console.log(bubbleSort([37, 45, 29, 8]));
-// node udemy/bubble_sort/bubbleSort.js
+// node udemy/sort_algorithms/bubbleSort.js
